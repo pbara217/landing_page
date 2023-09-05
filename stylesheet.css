@@ -228,3 +228,13 @@
     font-weight: 700;
     margin-right: 200px;
 }
+
+/* footer Styling*/
+.footer{
+    color:#F9FAF8;
+    font-size: 18px;
+    background-color: #1F2937;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
