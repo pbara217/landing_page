@@ -124,3 +124,43 @@
     padding-left: 300px;
     padding-right: 300px;
 }
+.foursome_text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 5px;
+    
+}
+.one_text{
+    border-radius: 20px;
+    text-align: center;
+    padding: 0px;
+    width: 168px;
+    height: 125px;
+  
+
+}
+.two_text{
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+    
+}
+.three_text{
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
+.four_text{
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
