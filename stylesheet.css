@@ -192,3 +192,10 @@
     padding-bottom: 100px;
     text-align: right;
 }
+
+.calltoaction_bubble{
+    background-color:#3882F6;
+    border-radius: 8px;
+    margin: 100px 200px 100px 200px;
+    height: 150px;
+}
