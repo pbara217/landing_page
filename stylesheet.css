@@ -117,3 +117,10 @@
   width: 125px;
   height: 125px;
 }
+.foursome{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+}
