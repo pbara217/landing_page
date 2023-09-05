@@ -1,4 +1,14 @@
+
+
 .header {
     background: #1F2937;
    
+   
+}
+.logo{
+    
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: 'Roboto', arial;
+    font-weight: bolder;
 }
