@@ -7,6 +7,7 @@ body{
    display: flex;
    justify-content: space-between;
    flex-wrap: wrap;
+   align-items: center;
    
 }
 .logo{
@@ -15,8 +16,11 @@ body{
     color: #F9FAF8;
     font-family: 'Roboto', arial;
     font-weight: bolder;
+    padding-left: 100px;
 }
 .links {
     color: #F9FAF8;
     display: flex;
+    margin-left: auto;
+    padding-right: 100px;
 }
