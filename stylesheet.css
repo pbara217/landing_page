@@ -24,3 +24,8 @@ body{
     margin-left: auto;
     padding-right: 100px;
 }
+.links a {
+    padding-left: 10px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
