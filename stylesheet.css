@@ -89,3 +89,31 @@
     padding-bottom: 48px;
     color: #1F2937;
 }
+.one {
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
+.two {
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
+.three {
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
+.four {
+    border-radius: 20px;
+  border: 4px solid #3882F6;
+  padding: 20px;
+  width: 125px;
+  height: 125px;
+}
