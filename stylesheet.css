@@ -79,3 +79,13 @@
 .hero_text {
     width: 50%;
 }
+
+/* info styling */
+.info_heading {
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    color: #1F2937;
+}
