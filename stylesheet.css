@@ -10,7 +10,7 @@ body{
    justify-content: space-between;
    align-items: center;
    padding: 0px 0px 0px 0px;
-
+    height: 50px;
 }
 .logo{
     
@@ -27,7 +27,7 @@ body{
     padding-right: 100px;
 }
 .links a {
-    padding-left: 10px;
+    padding-left: 20px;
     font-size: 18px;
     color: #e5e7eb;
     font-weight: 300;
