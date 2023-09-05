@@ -41,7 +41,7 @@
 
 /* hero style */
 .hero {
-    padding: 100px 90px 100px 200px;
+    padding: 100px 200px 140px 200px;
     margin: 0;
     background: #1F2937;
     display: flex;
@@ -51,6 +51,7 @@
 .hero h1 {
     font-size: 48px;
     color: #F9FAF8;
+    padding-right:
     
 }
 .hero p {
@@ -58,7 +59,9 @@
     color: #e5e7eb;
     font-weight: 300;
     padding-bottom: 15px;
-    max-width: 450px;
+    
+    
+    
 }
 .hero button {
     background-color: #3882F6;
