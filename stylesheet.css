@@ -4,7 +4,9 @@ body{
 
 .header {
     background: #1F2937;
-   
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
    
 }
 .logo{
@@ -13,4 +15,8 @@ body{
     color: #F9FAF8;
     font-family: 'Roboto', arial;
     font-weight: bolder;
+}
+.links {
+    color: #F9FAF8;
+    display: flex;
 }
